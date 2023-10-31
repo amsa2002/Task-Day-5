@@ -41,8 +41,8 @@ let myResume = {
       "phone": 8056786613,
       "degree": "Bsc",
       "location": {
-        "address": "15/16 Sainath Enclave ShenoyNagar",
-        "postalCode": 600030,
+        "address": "No.14 Selvaraj street, Thiruvanchery",
+        "postalCode": 600126,
         "city": "Chennai",
         "state": "Tamilnadu",
         "country": "India"
